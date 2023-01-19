@@ -11,7 +11,7 @@
   <h3 align="center">Lyric Search</h3>
 
   <p align="center">
-    Demo : <a href="" >lyric-search</a>
+    Demo : <a href="https://lyric-search-rho.vercel.app/" >lyric-search</a>
     <br />
     <br />
   </p>
